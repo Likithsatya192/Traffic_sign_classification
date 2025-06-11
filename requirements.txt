@@ -1,0 +1,13 @@
+# Core ML/DL and Data Libraries
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+# Kaggle API for dataset download
+kaggle
+
+# Note: If running in Google Colab, most required packages are pre-installed. Only install additional packages if needed.
